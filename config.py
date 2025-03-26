@@ -1,6 +1,6 @@
 # 小程序配置
-APPID = "wxb0c7089038505d64"
-APPSECRET = "e2c1e341ea1dd67b68056359f41627d1"
+APPID = "wxfc81deb5b0f53d7f"
+APPSECRET = "af14706856d3e2bd2a742779a9123b3e"
 
 # 数据库配置
 DATABASE_URI = 'sqlite:///./TIM.db'
